@@ -1,0 +1,15 @@
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.csproj.AssemblyReference.cache
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.AssemblyInfo.cs
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\bin\Debug\net6.0\CalculoDeAreas.exe
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\bin\Debug\net6.0\CalculoDeAreas.deps.json
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\bin\Debug\net6.0\CalculoDeAreas.runtimeconfig.json
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\bin\Debug\net6.0\CalculoDeAreas.dll
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\bin\Debug\net6.0\CalculoDeAreas.pdb
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.dll
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\refint\CalculoDeAreas.dll
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.pdb
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\CalculoDeAreas.genruntimeconfig.cache
+C:\Users\amand\Documents\CSharp\CalculoDeAreas\obj\Debug\net6.0\ref\CalculoDeAreas.dll
